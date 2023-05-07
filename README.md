@@ -3,6 +3,10 @@
 
 ### Hi there 👋
 
+<p>Cientista da Computação - UECE</p>
+<p>Faço projetos utilizando as linguagens JavaScript, Python e Java</p>
+<p>Gamer no tempo livre</p>
+
 
 
 <!--
