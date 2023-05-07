@@ -1,5 +1,5 @@
 
-<div background-image=https://user-images.githubusercontent.com/112807562/236684730-bdd39fa1-61b7-49f8-82f9-40b288155fd7.gif>
+<div background=blue>
   <img src="https://user-images.githubusercontent.com/112807562/236680233-dfc83131-16a7-4ecc-b58a-87b74acd9084.PNG" height="300px" width="900px"/>
 
 ### Hi there 👋
