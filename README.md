@@ -11,7 +11,7 @@
 
 <div display:"flex">
   <img src="https://user-images.githubusercontent.com/112807562/236691142-bf7e8deb-c961-4a22-ba05-d149da3fd1fc.png" height="36px" width="36px" border-radius:"50%"/>
-  <img src="https://user-images.githubusercontent.com/112807562/236689931-bd0d696e-b52d-4887-98fa-70cb6384ea47.gif" height="36px" width="36px" border-radius:"50%""/>
+  <img src="https://user-images.githubusercontent.com/112807562/236691104-4d22b3c9-af00-485b-bda2-22b0ddce239b.png" height="36px" width="36px" border-radius:"50%""/>
 </div>
 
 
