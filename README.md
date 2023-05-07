@@ -1,13 +1,8 @@
-<div background="red">
-  <img src="https://user-images.githubusercontent.com/112807562/236687874-58a11219-bd44-4e17-bf9f-84a109696a7a.gif" height="700px" width="1300px"/>
+
+<img src="https://user-images.githubusercontent.com/112807562/236687874-58a11219-bd44-4e17-bf9f-84a109696a7a.gif" height="700px" width="1300px"/>
 
 ### Hi there 👋
 
-  <div display="flex">
-    <img src="https://user-images.githubusercontent.com/112807562/236680897-78b3129a-0521-4adb-87d4-47979906fe58.png" height="40px" width="40px" "/>
-    <img src="https://user-images.githubusercontent.com/112807562/236680901-d6eae4b9-7994-4cd5-af35-47f6d6eb48bc.png" height="40px" width="40px"/>
-  <div>
-</div>
 
 
 <!--
