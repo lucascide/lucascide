@@ -3,8 +3,10 @@
 
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/112807562/236680897-78b3129a-0521-4adb-87d4-47979906fe58.png"/>
-<img src="https://user-images.githubusercontent.com/112807562/236680901-d6eae4b9-7994-4cd5-af35-47f6d6eb48bc.png"/>
+<div display="flex">
+  <img src="https://user-images.githubusercontent.com/112807562/236680897-78b3129a-0521-4adb-87d4-47979906fe58.png"/>
+  <img src="https://user-images.githubusercontent.com/112807562/236680901-d6eae4b9-7994-4cd5-af35-47f6d6eb48bc.png"/>
+<div>
 
 <!--
 **lucascide/lucascide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
