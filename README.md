@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/112807562/236687874-58a11219-bd44-4e17-bf9f-84a109696a7a.gif" height="400px" width="1900px"/>
 
-### Hi there 👋
+### Salve devs 👋
 
 <p>Cientista da Computação - UECE</p>
 <p>Faço projetos utilizando as linguagens JavaScript, Python e Java</p>
