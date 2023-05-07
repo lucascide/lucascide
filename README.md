@@ -3,9 +3,9 @@
 
 ### Sobre mim: 
 
-<p>Cientista da Computação - UECE</p>
-<p>Gamer no tempo livre</p>
-<p>Faço projetos utilizando as linguagens JavaScript, Python e Java</p>
+<p>📖 Cientista da Computação - UECE</p>
+<p>🎮 Gamer no tempo livre</p>
+<p>🧑‍💻 Faço projetos utilizando as linguagens JavaScript, Python e Java</p>
 
 
 
