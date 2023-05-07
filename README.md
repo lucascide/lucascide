@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/112807562/236687874-58a11219-bd44-4e17-bf9f-84a109696a7a.gif" height="400px" width="1900px"/>
+<img src="https://user-images.githubusercontent.com/112807562/236689931-bd0d696e-b52d-4887-98fa-70cb6384ea47.gif" height="400px" width="1300px"/>
 
 ### Sobre mim: 
 
