@@ -10,7 +10,7 @@
 ### Redes sociais:
 
 <div display:"flex">
-  <a link=""><img src="https://user-images.githubusercontent.com/112807562/236691142-bf7e8deb-c961-4a22-ba05-d149da3fd1fc.png" height="36px" width="36px" border-radius:"50%"/></a>
+  <a link="https://www.discord.com/users/915646717263773778"><img src="https://user-images.githubusercontent.com/112807562/236691142-bf7e8deb-c961-4a22-ba05-d149da3fd1fc.png" height="36px" width="36px" border-radius:"50%"/></a>
   <a href="https://www.instagram.com/lucas_cide19/"><img src="https://user-images.githubusercontent.com/112807562/236691104-4d22b3c9-af00-485b-bda2-22b0ddce239b.png" height="36px" width="36px" border-radius:"50%""/></a>
 </div>
 
