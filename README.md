@@ -1,6 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/112807562/236689931-bd0d696e-b52d-4887-98fa-70cb6384ea47.gif" height="400px" width="1300px"/>
-
 ### Sobre mim: 
 
 <p>📖 Cientista da Computação - UECE</p>
